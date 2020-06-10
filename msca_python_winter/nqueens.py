@@ -1,5 +1,5 @@
 class raf_nq:
-    def __init__(self, size, show=False):
+    def __init__(self, size):
         self.size = size
         self.solutions = 0
         self.solve()
